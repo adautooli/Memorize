@@ -1,6 +1,6 @@
 # Memorize 
 
-The Project consists of presenting the swiftui framework building a memory game using animations, JSON, CoreData and UIKit integration.
+The Project consists of presenting the SwiftUI framework building a memory game using animations, JSON, CoreData and UIKit integration.
 
 ## Instalation
 
